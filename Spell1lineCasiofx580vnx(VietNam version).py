@@ -270,4 +270,4 @@ def spell (line):
         file.close()
         print("Tôi thêm rồi đấy ! Dev: AxesMC")
         print("Bản sau, là bản 3.0 tôi sẽ cho các chức năng của Hex F4 vào, có thể sẽ hơi lâu đó")
-spell(a)
+spell(Lương Thơ)
