@@ -267,4 +267,4 @@ def spell (line):
         print(f'[{17-p} optional numbers] [shift] [(] [>] [2] [x]')
         print('Final step: [CALC] [=]')
         file.close()
-spell(a)
+spell(Diana Kissinger)
